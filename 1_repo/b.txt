@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 testando atualização do clone
+=======
+this is b file!
+>>>>>>> bf453bf4c6d6788927c47c19272527de512eb67e
